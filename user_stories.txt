@@ -1,0 +1,9 @@
+> As a user, I would like to post a photo to the website so that I can store photos.
+
+> As a user, I would like to delete a photo so that photos posted in error can be removed.
+
+> As a user, I should be able to edit the descriptions of photos so that I can provide context for the photo.
+
+> As a user, I should be able to see all photos at once so that I can browse the history of all photos taken.
+
+> As a user, I should be able to select an individual photo so that I can zoom in on a larger version and see more photo details.

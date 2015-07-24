@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+img {
+  height: 250px;
+  width: 250px;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  margin: .25em;
+}

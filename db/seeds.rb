@@ -3,3 +3,5 @@ require "pry"
 
 require_relative "../db/connection"
 require_relative "../models/entry"
+
+Entry.destroy_all
